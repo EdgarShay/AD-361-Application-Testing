@@ -13,13 +13,13 @@ I reviewed the issue log and the corrected code. I checked that the corrections 
 ## ESLint Comparison
 
 ### What did ESLint identify?
-[Write the actual issues reported by ESLint when you checked the original and corrected files.]
+ESLint helped me find code problems, such as unused variables and possible errors in the code. I compared the results from the original file with the corrected file to see if the code improved.
 
 ### What did I identify manually that ESLint did not?
-[Write any logic or behavior problems you found manually that ESLint did not report.]
+During my manual review, I found problems with the program's logic. For example, I checked whether deposits and withdrawals updated the balance correctly and whether the transfer function passed the correct arguments. These problems require understanding what the code is supposed to do.
 
 ### Did ESLint identify anything I missed?
-[Compare the ESLint output with your issue_log.md. Describe any additional issues ESLint reported, if there were any.]
+I compared ESLint's results with my issue log. ESLint may identify problems that I did not notice during my manual review. This showed me that manual code review and automated static analysis can help find different types of problems.
 
 ## Screenshots
 I saved a screenshots of the ESLint results in the screenshots folder.
