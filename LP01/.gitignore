@@ -1,0 +1,9 @@
+venv/
+.venv/
+env/
+node_modules/
+coverage/
+.DS_Store
+Thumbs.db
+.env
+
