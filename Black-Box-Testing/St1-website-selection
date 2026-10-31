@@ -1,0 +1,26 @@
+# Step 1: Website Selection
+
+## Website Information
+
+- **Website Name:** NVIDIA
+- **Website URL:**  https://www.nvidia.com/en-us/
+
+## Why I Selected This Website
+
+I selected NVIDIA because I am interested in technology, graphics cards, and artificial intelligence. I also wanted to use a website that I enjoy exploring.
+
+## Features Selected for Testing
+
+### Feature 1: Product Search
+
+I will test the search feature by entering different types of search terms. I want to see how the website responds to valid searches, empty searches, and searches that do not match any products.
+
+### Feature 2: Product Navigation
+
+I will test how users navigate through product categories and product information. I will check whether selecting a product category or product link takes the user to the correct page.
+
+## Testing Approach
+
+I will use black-box testing. This means I will interact with the website as a regular user without looking at the source code.
+
+I will focus on user inputs, actions, website responses, and expected results.
