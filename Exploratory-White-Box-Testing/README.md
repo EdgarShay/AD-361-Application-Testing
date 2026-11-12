@@ -1,4 +1,4 @@
-# Exploratory White Box - Counter Application Testing
+# Exploratory White Box testing- Counter Application
 Written by: Edgar
 ## Project Overview
 
