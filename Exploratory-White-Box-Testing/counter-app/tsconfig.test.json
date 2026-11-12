@@ -1,0 +1,24 @@
+{
+    "extends": "./tsconfig.app.json",
+    "compilerOptions": {
+        "target": "ES2020",
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "jsx": "react-jsx",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "skipLibCheck": true,
+        "verbatimModuleSyntax": false,
+        "types": [
+            "vite/client",
+            "jest",
+            "node"
+        ],
+        "noEmit": true
+    },
+    "include": [
+        "src/**/*.ts",
+        "src/**/*.tsx"
+    ]
+}
